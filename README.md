@@ -149,7 +149,7 @@ JProfile analyzes the following data types with specific statistics for each:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. The MIT License is a permissive license that allows for reuse with few restrictions. It basically lets people do anything with your code as long as they provide attribution back to you and don't hold you liable.
+This project is licensed under the MIT License. 
 
 ## Acknowledgements
-A special thanks to everyone who supported me during the development of this simple library. This project wouldn't have been possible without copious amounts of coffee, a trusty pair of headphones, and an energizing deep dark minimal techno playlist keeping me in the zone. Sometimes the simplest tools make all the difference.
+This project wouldn't have been possible without copious amounts of coffee, a trusty pair of headphones, and an energizing deep dark minimal techno playlist keeping me in the zone. Sometimes the simplest tools make all the difference.
