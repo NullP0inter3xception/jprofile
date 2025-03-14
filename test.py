@@ -1,7 +1,6 @@
 import pandas as pd
 from jprofile import JProfile
 
-# Maak een test DataFrame
 data = {
     'id': [1, 2, 3, 4, 5, None, 7, 8, 8, 10],
     'value': [10.5, 20.3, None, 40.1, 50.2, 60.7, 35.8, 42.0, 10.5, 30.6],
@@ -14,11 +13,9 @@ data = {
 
 df = pd.DataFrame(data)
 
-# Test JProfile
 profiler = JProfile(df)
 profiler.display_profile()
 
-# Test het ophalen van de resultaten als dictionary
 results = profiler.get_profile()
 print("\nResults for 'name' column as dictionary:")
 print(results['name'])
